@@ -1,0 +1,11 @@
+﻿global using System.ComponentModel.DataAnnotations;
+global using Movies.Data;
+global using Movies.Core.Dtos;
+global using Movies.Core.Models;
+global using Movies.Core.Base;
+global using System.Text.Json.Serialization;
+global using AutoMapper;
+global using Microsoft.AspNetCore.Mvc;
+global using Movies.Services;
+global using Movies.Helpers;
+global using Microsoft.EntityFrameworkCore;
